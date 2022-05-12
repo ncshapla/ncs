@@ -1,0 +1,41 @@
+<div id="tab1" class="tab-pane fade">
+							<!-- start title-box -->
+							<div class="title-box">
+								<h3 class="sub-title">Work <strong>Experience</strong></h3>
+							</div>
+							<!-- end title-box -->
+							<div class="row">
+								<div class="col-sm-4">
+									<div class="experience-content">
+										<p class="range">Sept 1998 - 2016</p>
+										<div class="experience-content-box">
+											<h4>Own House</h4>
+											<h5>Member</h5>
+											<p>I was baby then. So I did not go to others for any kind of job.</p>
+										</div>
+									</div><!-- end experience-content -->
+								</div><!-- end col -->
+								
+								<div class="col-sm-4">
+									<div class="experience-content">
+										<p class="range">Feb 2016 - Current</p>
+										<div class="experience-content-box">
+											<h4>Tuition</h4>
+											<h5>Teacher</h5>
+											<p>Now I am not a baby. So I have joined in teaching proffesion.</p>
+										</div>
+									</div><!-- end experience-content -->
+								</div><!-- end col -->
+								
+								<div class="col-sm-4">
+									<div class="experience-content">
+										<p class="range">2023 - Future</p>
+										<div class="experience-content-box">
+											<h4>IDK actually</h4>
+											<h5>Financial analyst</h5>
+											<p>When I'll be graduate then I'll join in a comapny as Finanical analyst</p>
+										</div>
+									</div><!-- end experience-content -->
+								</div><!-- end col -->
+							</div><!-- end row -->
+						</div>

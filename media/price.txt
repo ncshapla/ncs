@@ -1,0 +1,98 @@
+<section id="pricingtable" class="pricing pricing-style2">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<!-- start section title-wrap -->
+					<div class="title-wrap">
+						<div class="section-title-box">
+							<h2 class="section-title">Pricing  <strong>Plan</strong></h2>
+						</div><!-- end section-title-box -->
+					</div>
+					<!-- end section title-wrap -->
+					<div class="intro-text text-center">
+						I can be your virtual social media marketing manager...
+					</div><!-- end intro-text -->
+				</div><!-- end col -->
+			</div><!-- end row -->	
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="pricing-plan-wrap">
+						<div class="pricing-plan-header">
+							<h3>Silver</h3>
+							<div class="price-holder">
+								<p class="dolar"><sup>$</sup>15</p>
+								<sub>/task<strong>*</strong></sub>
+							</div><!-- end price-holder -->
+						</div><!-- end pricing-plan-header -->
+						<ul class="list-unstyled">
+							<li>Business Page Creation</li>
+							<li>Seasonality Ad Calendar</li>
+							<li>Ad Content Creation</li>
+							<li>Delivery in 2 days</li>
+						</ul><!-- end list -->
+						<a class="btn btn-shutter-out-horizontal" href="https://www.fiverr.com/dmshapla/be-your-virtual-social-media-marketing-manager" target="_blank">Choose Plan</a>
+					</div><!-- end pricing-plan-wrap -->
+				</div><!-- end pricing-plan -->
+				<div class="col-sm-4">
+					<div class="pricing-plan-wrap active">
+						<div class="pricing-plan-header">
+							<h3>Gold</h3>
+							<div class="price-holder">
+								<p class="dolar"><sup>$</sup>29</p>
+								<sub>/task<strong>*</strong></sub>
+							</div><!-- end price-holder -->
+						</div><!-- end pricing-plan-header -->
+						<ul class="list-unstyled">
+							<li>Target Audience Research</li>
+							<li>Campaign Optimization</li>
+							<li>Keyword Research & much more...</li>
+							<li>Delivery in 4 days</li>
+						</ul><!-- end list -->
+						<a class="btn btn-shutter-out-horizontal" href="https://www.fiverr.com/dmshapla/be-your-virtual-social-media-marketing-manager" target="_blank">Choose Plan</a>
+					</div><!-- end pricing-plan-wrap -->
+				</div><!-- end pricing-plan -->
+				<div class="col-sm-4">
+					<div class="pricing-plan-wrap">
+						<div class="pricing-plan-header">
+							<h3>Diamond</h3>
+							<div class="price-holder">
+								<p class="dolar"><sup>$</sup>39</p>
+								<sub>/task<strong>*</strong></sub>
+							</div><!-- end price-holder -->
+						</div><!-- end pricing-plan-header -->
+						<ul class="list-unstyled">
+							<li>Seasonality Ad Calendar</li>
+							<li>Ad Content Creation</li>
+							<li>Ads Analytical Report</li>
+							<li>Target Audience Research</li>
+							<li>Automated Feed Ads (DPA) & much more...</li>
+							<li>Delivery in 7 days</li>
+						</ul><!-- end list -->
+						<a class="btn btn-shutter-out-horizontal" href="https://www.fiverr.com/dmshapla/be-your-virtual-social-media-marketing-manager" target="_blank">Choose Plan</a>
+					</div><!-- end pricing-plan-wrap -->
+				</div><!-- end pricing-plan -->
+			</div><!-- end row -->
+		</div><!-- end container -->
+	</section>
+	<!-- end Pricing Plan 14 -->
+	
+	<!--  start quotes-section -->
+	<section id="quotes-section" class="quotes-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="quotes-wrap text-center">
+						<!-- start section title-wrap -->
+						<div class="title-wrap">
+							<div class="section-title-box">
+								<h2 class="section-title">Let's Work  <strong>Together</strong></h2>
+							</div><!-- end section-title-box -->
+						</div>
+						<!-- end section title-wrap -->
+						<p>I am available for freelance.</p>
+						<a class="btn btn-shutter-out-horizontal btn-transparent" href="#contact">Get Quotes</a>
+					</div>
+				</div><!-- end col -->
+			</div><!-- end row -->
+		</div><!-- end container -->
+	</section>
